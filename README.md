@@ -46,3 +46,4 @@ LOAD_GAME_BOARD(Game* game):
   b) Constructs the game board based on the input and initializes game state variables.
 
 These functions collectively provide the logic necessary to play and solve the game GIPF. The solver reads input moves, executes them, checks game conditions, generates possible moves, and determines the game outcome. Each function plays a specific role in managing game state and executing game actions.
+ 
